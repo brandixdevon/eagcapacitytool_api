@@ -1,0 +1,11 @@
+
+PUT  http://localhost:3890/useraccount/updateuseraccount HTTP/1.1
+content-type: application/json
+
+{
+    "uid":"1",
+    "empid": "3",
+    "uname": "rash",
+    "utype": "wd"
+}
+

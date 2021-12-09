@@ -1,0 +1,20 @@
+POST  http://localhost:3890/task/addtask HTTP/1.1
+content-type: application/json
+
+{
+    "proid": "3",
+    "empid": "2",
+    "tasktitle": "dulaj",
+    "taskdesc": "kasata",
+    "taskhours": "5",
+    "taskstatus":"complete",
+    "cruser": "2",
+    "crdate": "2021-02-21",
+    "lcuser": "2",
+    "lcdate": "2021-03-20"
+
+
+
+
+}
+

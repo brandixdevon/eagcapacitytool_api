@@ -1,0 +1,11 @@
+
+POST  http://localhost:3890/projects/addprojects HTTP/1.1
+content-type: application/json
+
+{
+    "proname": "dul new",
+    "prostart": "2020-06-05",
+    "proend": "2021-12-12",
+    "prostatus":"ongoing"
+}
+

@@ -1,0 +1,12 @@
+
+PUT  http://localhost:3890/projects/updateprojects HTTP/1.1
+content-type: application/json
+
+{
+    "proid":"3",
+    "proname": "eag team",
+    "prostart": "2020-06-05",
+    "proend": "2021-12-13",
+    "prostatus":"ongoing"
+}
+

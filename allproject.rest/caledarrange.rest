@@ -1,0 +1,8 @@
+GET   http://localhost:3890/calendar/calendarrange HTTP/1.1
+content-type: application/json
+
+{
+    "date1": "2021-09-09",
+    "date2": "2021-09-12"
+   
+}

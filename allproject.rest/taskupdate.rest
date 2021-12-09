@@ -1,0 +1,19 @@
+PUT   http://localhost:3890/task/updatetask HTTP/1.1
+content-type: application/json
+
+{
+    "taskid": "2",
+    "tasktitle": "pasan",
+    "taskdesc": "kasata",
+    "taskhours": "5",
+    "taskstatus":"complete",
+    "cruser": "2",
+    "crdate": "2021-02-21",
+    "lcuser": "2",
+    "lcdate": "2021-03-20"
+
+
+
+
+}
+

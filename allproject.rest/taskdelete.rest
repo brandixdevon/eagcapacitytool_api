@@ -1,0 +1,11 @@
+DELETE   http://localhost:3890/task/deletetask HTTP/1.1
+content-type: application/json
+
+{
+    "taskid":"1"
+
+
+
+
+}
+

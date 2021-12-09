@@ -1,0 +1,8 @@
+PUT http://localhost:3890/calendar/updatecalendar HTTP/1.1
+content-type: application/json
+
+{
+    "caldate": "2021-09-04",
+    "caldatetype": "weekend"
+   
+}
